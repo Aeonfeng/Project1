@@ -20,12 +20,13 @@ void main(void)
 {
 	initstack();
 	viewstack();
-	push(11);
-	push(22);
-	push(45);
-	push(2);
 	push(99);
-	push(111);
+	push(99);
+	push(99);
+	push(99);
+	push(99);
+	push(99);
+	push(99);
 	viewstack();
 	/*pop();
 	pop();
